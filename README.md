@@ -2,7 +2,7 @@
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-blue) ![Go](https://img.shields.io/badge/Go-blue) ![Java](https://img.shields.io/badge/Java-blue) ![Ruby](https://img.shields.io/badge/Ruby-blue) ![React](https://img.shields.io/badge/React-blue) ![GraphQL](https://img.shields.io/badge/GraphQL-blue) ![PHP](https://img.shields.io/badge/PHP-blue) ![Solidity](https://img.shields.io/badge/Solidity-blue) ![Bash](https://img.shields.io/badge/Bash-blue) ![C](https://img.shields.io/badge/C-blue) ![C++](https://img.shields.io/badge/C++-blue)
+![Typescript](https://img.shields.io/badge/Typescript-blue) ![Python](https://img.shields.io/badge/Python-blue) ![Go](https://img.shields.io/badge/Go-blue) ![Java](https://img.shields.io/badge/Java-blue) ![Ruby](https://img.shields.io/badge/Ruby-blue) ![React](https://img.shields.io/badge/React-blue) ![GraphQL](https://img.shields.io/badge/GraphQL-blue) ![PHP](https://img.shields.io/badge/PHP-blue) ![Solidity](https://img.shields.io/badge/Solidity-blue) ![Bash](https://img.shields.io/badge/Bash-blue) ![C](https://img.shields.io/badge/C-blue) ![C++](https://img.shields.io/badge/C++-blue)
 
 ## Databases
 
