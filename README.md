@@ -1,6 +1,6 @@
 # [Grant Joy](https://github.com/grantjoy)
 
-### Languages
+### Programming Languages
 
 ![Typescript](https://img.shields.io/badge/Typescript-blue) ![Python](https://img.shields.io/badge/Python-blue) ![Go](https://img.shields.io/badge/Go-blue) ![Java](https://img.shields.io/badge/Java-blue) ![Ruby](https://img.shields.io/badge/Ruby-blue) ![React](https://img.shields.io/badge/React-blue) ![GraphQL](https://img.shields.io/badge/GraphQL-blue) ![PHP](https://img.shields.io/badge/PHP-blue) ![Solidity](https://img.shields.io/badge/Solidity-blue) ![Bash](https://img.shields.io/badge/Bash-blue) ![C](https://img.shields.io/badge/C-blue) ![C++](https://img.shields.io/badge/C++-blue)
 
@@ -8,7 +8,7 @@
 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![Snowflake](https://img.shields.io/badge/Snowflake-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-blue) ![SQLite](https://img.shields.io/badge/SQLite-blue) ![MSSQL](https://img.shields.io/badge/MSSQL-blue) ![MySQL](https://img.shields.io/badge/MySQL-blue) ![Redis](https://img.shields.io/badge/Redis-blue)
 
-### Infrastructure
+### Infrastructure Management
 
 ![Terraform](https://img.shields.io/badge/Terraform-blue) ![Pulumi](https://img.shields.io/badge/Pulumi-blue) ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-blue) ![Chef](https://img.shields.io/badge/Chef-blue) ![Ansible](https://img.shields.io/badge/Ansible-blue)
 
