@@ -1,4 +1,4 @@
-# Grant Joy
+# [Grant Joy](https://github.com/grantjoy)
 
 ## Languages
 
