@@ -10,7 +10,7 @@
 
 ### Infra
 
-![Terraform](https://img.shields.io/badge/Terraform-blue) ![Pulumi](https://img.shields.io/badge/Pulumi-blue) ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-blue) ![Chef](https://img.shields.io/badge/Chef-blue) ![Ansible](https://img.shields.io/badge/Ansible-blue)
+![Terraform](https://img.shields.io/badge/Terraform-blue) ![Pulumi](https://img.shields.io/badge/Pulumi-blue) ![Chef](https://img.shields.io/badge/Chef-blue) ![Ansible](https://img.shields.io/badge/Ansible-blue)
 
 ### CI/CD and Version Control
 
